@@ -22,8 +22,7 @@
 
     NSString *str = @"1";
 
-    NSString *str2 = @"2";
-    NSString *str3 = @"3";
+ 
                       
                       
 }
