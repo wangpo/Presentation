@@ -27,7 +27,9 @@
      NSString *str3 = @"3";
     
     
-              NSString *str = @"A";
+              NSString *stra = @"A";
+    
+     NSString *strb = @"B";
                       
 }
 
