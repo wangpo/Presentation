@@ -30,6 +30,7 @@
               NSString *stra = @"A";
     
      NSString *strb = @"B";
+     NSString *strC = @"C";
                       
 }
 
