@@ -19,6 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.dataSource = @[@"底部弹出",@"顶部弹出"];
+    NSString *str = @"1";
 }
 
 - (void)didReceiveMemoryWarning {
